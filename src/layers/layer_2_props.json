@@ -1,0 +1,38 @@
+{
+  "h": {
+    "flip": false,
+    "render": true,
+    "reflect": true,
+    "fit": {
+      "x": true,
+      "y": true
+    },
+    "scale": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 10,
+      "y": 0
+    },
+    "rotate": 0
+  },
+  "v": {
+    "flip": true,
+    "render": true,
+    "reflect": true,
+    "fit": {
+      "x": true,
+      "y": true
+    },
+    "scale": {
+      "x": 1,
+      "y": 1
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "rotate": 90
+  }
+}
